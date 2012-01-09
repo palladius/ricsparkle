@@ -6,8 +6,7 @@ It's synced automatically with the wonderful Sparkleshare!
 Beware!
 =======
 
-Riccardo, remember this is open source. No porn here ;)
-
+Riccardo, remember this is open source. No private or illegal things here ;)
 
 Resources
 =========
