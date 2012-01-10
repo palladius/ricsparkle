@@ -4,7 +4,7 @@ It's synced automatically with the wonderful Sparkleshare!
 
 Notes:
 
-* TYhe .gitignore works!
+* The .gitignore works!
 
 Beware!
 =======
