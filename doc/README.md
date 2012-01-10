@@ -1,19 +1,8 @@
-This repo is really a file aggregation repo with open files and stuff!
-
-It's synced automatically with the wonderful Sparkleshare!
-
-Notes:
-
-* The .gitignore works!
-
-Beware!
-=======
-
-Riccardo, remember this is open source. No private or illegal things here ;)
+This is a test for a README for the doc/ dir..
 
 Resources
 =========
 
 On guthub:
 
-- https://github.com/palladius/ricsparkle
+- https://github.com/palladius/ricsparkle/README.md
