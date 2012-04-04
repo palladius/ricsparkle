@@ -14,6 +14,6 @@ Riccardo, remember this is open source. No private or illegal things here ;)
 Resources
 =========
 
-On guthub:
+On github:
 
 - https://github.com/palladius/ricsparkle
